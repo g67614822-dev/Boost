@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "name": "Tsila",
+      "phone": "0337871134",
+      "solde": 2000,
+      "history": [
+        {
+          "id": 1778815098175,
+          "date": "5/15/2026",
+          "time": "06:18 AM",
+          "type": "Recharge",
+          "amount": 2000,
+          "ref": "5298338",
+          "status": "Confirmed"
+        }
+      ]
+    }
+  ],
+  "services": {
+    "fb": [
+      {
+        "n": "Facebook Likes",
+        "r": 1.5,
+        "status": "online"
+      },
+      {
+        "n": "Facebook Followers",
+        "r": 5,
+        "status": "online"
+      }
+    ],
+    "tt": [
+      {
+        "n": "TikTok Followers",
+        "r": 15,
+        "status": "online"
+      },
+      {
+        "n": "TikTok Likes",
+        "r": 8,
+        "status": "online"
+      }
+    ]
+  },
+  "admin": {
+    "code": "20202404",
+    "online": true,
+    "payments": [
+      {
+        "name": "MOUNA ESSA ALIDA",
+        "method": "Mvola",
+        "number": "034 54 004 08"
+      },
+      {
+        "name": "JOSIANE",
+        "method": "M'VOLA",
+        "number": "0347871139"
+      }
+    ]
+  }
+}
